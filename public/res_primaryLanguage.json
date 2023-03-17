@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Reece Renninger. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello and Welcome!",
+      "description": "👋 I'm Reece Renninger. I am a United States Marine Corps veteran who is becoming a Full-Stack JavaScript Developer while attending Code Fellows Seattle. I attended California State University Long Beach from 2017 to 2020 where I earned a BA in Psychology.  After I was exposed to the field of User Psychology, I became fascinated with being able to apply psychological methods to coding design and implementation. Thanks for visiting my portfolio page, if you want to reach out to me directly please use the linkedin link below.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,42 +11,42 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "201 Group Project",
+        "startDate": "2023",
+        "description": "Can You Guess It? A collaboratively created quiz game website that was built by the Power Devs 9000 organization. We wanted to implement a fun, interactable, and expandable application that would allow users to test their knowledge base on introductory coding knowledge. Users could also track their scores on their own local machines while playing.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/can-you-guess-it/CanYouGuessIt.png",
+          "images/portfolio/can-you-guess-it/game-scoreboard.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css-plain",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "",
+        "startDate": "",
+        "description": "P",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "",
+          ""
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "",
+            "name": ""
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,26 +55,26 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "",
+        "startDate": "",
+        "description": "",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "",
+          ""
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "",
+            "name": ""
           }
         ]
       }

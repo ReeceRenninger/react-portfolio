@@ -2,4 +2,6 @@
 
 [My Portfolio Page](reecerenninger.netlify.app)
 
-Make it your own! 
+
+
+Author: Reece Renninger
