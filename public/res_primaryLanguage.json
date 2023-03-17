@@ -25,17 +25,17 @@
             "name": "JavaScript"
           },
           {
-            "class": "devicon-html-plain",
+            "class": "devicon-html5-plain",
             "name": "HTML"
           },
           {
-            "class": "devicon-css-plain",
+            "class": "devicon-css3-plain",
             "name": "CSS"
           }
         ]
       },
       {
-        "title": "",
+        "title": "301 Group Project",
         "startDate": "",
         "description": "P",
         "images": [
@@ -55,7 +55,7 @@
         ]
       },
       {
-        "title": "",
+        "title": "401 Group Project",
         "startDate": "",
         "description": "",
         "images": [
@@ -81,37 +81,19 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Student JavaScript Developer",
+        "years": "01.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "HTML",
+          "CSS",
+          "React",
+          "Bootstrap"
+    
         ]
       }
     ]
