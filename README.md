@@ -1,3 +1,7 @@
-# Modify this portfolio
+# Thanks for checking out my page!
 
-Make it your own! 
+[My Portfolio Page](reecerenninger.netlify.app)
+
+
+
+Author: Reece Renninger
