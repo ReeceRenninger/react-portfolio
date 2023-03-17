@@ -25,17 +25,17 @@
             "name": "JavaScript"
           },
           {
-            "class": "devicon-html-plain",
+            "class": "devicon-html5-plain",
             "name": "HTML"
           },
           {
-            "class": "devicon-css-plain",
+            "class": "devicon-css3-plain",
             "name": "CSS"
           }
         ]
       },
       {
-        "title": "",
+        "title": "301 Group Project",
         "startDate": "",
         "description": "P",
         "images": [
@@ -55,7 +55,7 @@
         ]
       },
       {
-        "title": "",
+        "title": "401 Group Project",
         "startDate": "",
         "description": "",
         "images": [
