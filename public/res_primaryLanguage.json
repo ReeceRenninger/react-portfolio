@@ -35,27 +35,31 @@
         ]
       },
       {
-        "title": "301 Group Project",
-        "startDate": "",
-        "description": "P",
+        "title": "Salmon Cookies",
+        "startDate": "2023",
+        "description": "The worlds most salmon cookie. A website I created as a part of my 201 course at Code Fellows Seattle. This page allows for users to generate their own stores on the store page and see the totals increase as more are added.  This website utilized a user influenced constructor, DOM elements, HTML for its structure, and CSS for its styling.",
         "images": [
-          "",
-          ""
+          "images/portfolio/salmon-cookies/salmon-homepage.png",
+          "images/portfolio/salmon-cookies/salmon-store-generator.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "",
-            "name": ""
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       },
       {
-        "title": "401 Group Project",
+        "title": "301 Group Project",
         "startDate": "",
         "description": "",
         "images": [
